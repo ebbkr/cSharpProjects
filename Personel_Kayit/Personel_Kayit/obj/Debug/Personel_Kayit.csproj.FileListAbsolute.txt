@@ -1,0 +1,14 @@
+C:\Users\ebube\source\repos\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe.config
+C:\Users\ebube\source\repos\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe
+C:\Users\ebube\source\repos\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.pdb
+C:\Users\ebube\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.AssemblyReference.cache
+C:\Users\ebube\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebube\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Form1.resources
+C:\Users\ebube\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Properties.Resources.resources
+C:\Users\ebube\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.GenerateResource.cache
+C:\Users\ebube\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\ebube\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.exe
+C:\Users\ebube\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.pdb
+C:\Users\ebube\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.frmIstatistik.resources
+C:\Users\ebube\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.frmGrafikler.resources
+C:\Users\ebube\source\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.frmGiris.resources
