@@ -1,0 +1,12 @@
+C:\Users\ebube\source\repos\LoginPageLab\LoginPageLab\bin\Debug\LoginPageLab.exe.config
+C:\Users\ebube\source\repos\LoginPageLab\LoginPageLab\bin\Debug\LoginPageLab.exe
+C:\Users\ebube\source\repos\LoginPageLab\LoginPageLab\bin\Debug\LoginPageLab.pdb
+C:\Users\ebube\source\repos\LoginPageLab\LoginPageLab\obj\Debug\LoginPageLab.csproj.AssemblyReference.cache
+C:\Users\ebube\source\repos\LoginPageLab\LoginPageLab\obj\Debug\LoginPageLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebube\source\repos\LoginPageLab\LoginPageLab\obj\Debug\LoginPageLab.Form1.resources
+C:\Users\ebube\source\repos\LoginPageLab\LoginPageLab\obj\Debug\LoginPageLab.frmSifreYenile.resources
+C:\Users\ebube\source\repos\LoginPageLab\LoginPageLab\obj\Debug\LoginPageLab.Properties.Resources.resources
+C:\Users\ebube\source\repos\LoginPageLab\LoginPageLab\obj\Debug\LoginPageLab.csproj.GenerateResource.cache
+C:\Users\ebube\source\repos\LoginPageLab\LoginPageLab\obj\Debug\LoginPageLab.csproj.CoreCompileInputs.cache
+C:\Users\ebube\source\repos\LoginPageLab\LoginPageLab\obj\Debug\LoginPageLab.exe
+C:\Users\ebube\source\repos\LoginPageLab\LoginPageLab\obj\Debug\LoginPageLab.pdb
