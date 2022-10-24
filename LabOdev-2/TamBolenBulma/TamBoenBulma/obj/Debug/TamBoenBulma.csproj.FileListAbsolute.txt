@@ -1,0 +1,8 @@
+C:\Users\ebube\source\repos\TamBoenBulma\TamBoenBulma\bin\Debug\TamBoenBulma.exe.config
+C:\Users\ebube\source\repos\TamBoenBulma\TamBoenBulma\bin\Debug\TamBoenBulma.exe
+C:\Users\ebube\source\repos\TamBoenBulma\TamBoenBulma\bin\Debug\TamBoenBulma.pdb
+C:\Users\ebube\source\repos\TamBoenBulma\TamBoenBulma\obj\Debug\TamBoenBulma.csproj.AssemblyReference.cache
+C:\Users\ebube\source\repos\TamBoenBulma\TamBoenBulma\obj\Debug\TamBoenBulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebube\source\repos\TamBoenBulma\TamBoenBulma\obj\Debug\TamBoenBulma.csproj.CoreCompileInputs.cache
+C:\Users\ebube\source\repos\TamBoenBulma\TamBoenBulma\obj\Debug\TamBoenBulma.exe
+C:\Users\ebube\source\repos\TamBoenBulma\TamBoenBulma\obj\Debug\TamBoenBulma.pdb

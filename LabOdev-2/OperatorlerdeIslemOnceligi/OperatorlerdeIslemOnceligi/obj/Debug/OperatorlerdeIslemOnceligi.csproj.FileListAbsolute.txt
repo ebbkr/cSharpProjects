@@ -1,0 +1,8 @@
+C:\Users\ebube\source\repos\OperatorlerdeIslemOnceligi\OperatorlerdeIslemOnceligi\bin\Debug\OperatorlerdeIslemOnceligi.exe.config
+C:\Users\ebube\source\repos\OperatorlerdeIslemOnceligi\OperatorlerdeIslemOnceligi\bin\Debug\OperatorlerdeIslemOnceligi.exe
+C:\Users\ebube\source\repos\OperatorlerdeIslemOnceligi\OperatorlerdeIslemOnceligi\bin\Debug\OperatorlerdeIslemOnceligi.pdb
+C:\Users\ebube\source\repos\OperatorlerdeIslemOnceligi\OperatorlerdeIslemOnceligi\obj\Debug\OperatorlerdeIslemOnceligi.csproj.AssemblyReference.cache
+C:\Users\ebube\source\repos\OperatorlerdeIslemOnceligi\OperatorlerdeIslemOnceligi\obj\Debug\OperatorlerdeIslemOnceligi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebube\source\repos\OperatorlerdeIslemOnceligi\OperatorlerdeIslemOnceligi\obj\Debug\OperatorlerdeIslemOnceligi.csproj.CoreCompileInputs.cache
+C:\Users\ebube\source\repos\OperatorlerdeIslemOnceligi\OperatorlerdeIslemOnceligi\obj\Debug\OperatorlerdeIslemOnceligi.exe
+C:\Users\ebube\source\repos\OperatorlerdeIslemOnceligi\OperatorlerdeIslemOnceligi\obj\Debug\OperatorlerdeIslemOnceligi.pdb

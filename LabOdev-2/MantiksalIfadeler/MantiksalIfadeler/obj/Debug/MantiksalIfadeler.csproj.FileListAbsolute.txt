@@ -1,0 +1,8 @@
+C:\Users\ebube\source\repos\MantiksalIfadeler\MantiksalIfadeler\bin\Debug\MantiksalIfadeler.exe.config
+C:\Users\ebube\source\repos\MantiksalIfadeler\MantiksalIfadeler\bin\Debug\MantiksalIfadeler.exe
+C:\Users\ebube\source\repos\MantiksalIfadeler\MantiksalIfadeler\bin\Debug\MantiksalIfadeler.pdb
+C:\Users\ebube\source\repos\MantiksalIfadeler\MantiksalIfadeler\obj\Debug\MantiksalIfadeler.csproj.AssemblyReference.cache
+C:\Users\ebube\source\repos\MantiksalIfadeler\MantiksalIfadeler\obj\Debug\MantiksalIfadeler.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebube\source\repos\MantiksalIfadeler\MantiksalIfadeler\obj\Debug\MantiksalIfadeler.csproj.CoreCompileInputs.cache
+C:\Users\ebube\source\repos\MantiksalIfadeler\MantiksalIfadeler\obj\Debug\MantiksalIfadeler.exe
+C:\Users\ebube\source\repos\MantiksalIfadeler\MantiksalIfadeler\obj\Debug\MantiksalIfadeler.pdb

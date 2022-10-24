@@ -1,0 +1,8 @@
+C:\Users\ebube\source\repos\TarihtenAyBulma\TarihtenAyBulma\bin\Debug\TarihtenAyBulma.exe.config
+C:\Users\ebube\source\repos\TarihtenAyBulma\TarihtenAyBulma\bin\Debug\TarihtenAyBulma.exe
+C:\Users\ebube\source\repos\TarihtenAyBulma\TarihtenAyBulma\bin\Debug\TarihtenAyBulma.pdb
+C:\Users\ebube\source\repos\TarihtenAyBulma\TarihtenAyBulma\obj\Debug\TarihtenAyBulma.csproj.AssemblyReference.cache
+C:\Users\ebube\source\repos\TarihtenAyBulma\TarihtenAyBulma\obj\Debug\TarihtenAyBulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebube\source\repos\TarihtenAyBulma\TarihtenAyBulma\obj\Debug\TarihtenAyBulma.csproj.CoreCompileInputs.cache
+C:\Users\ebube\source\repos\TarihtenAyBulma\TarihtenAyBulma\obj\Debug\TarihtenAyBulma.exe
+C:\Users\ebube\source\repos\TarihtenAyBulma\TarihtenAyBulma\obj\Debug\TarihtenAyBulma.pdb

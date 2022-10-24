@@ -1,0 +1,8 @@
+C:\Users\ebube\source\repos\DenklemKokleriniBulma\DenklemKokleriniBulma\obj\Debug\DenklemKokleriniBulma.csproj.AssemblyReference.cache
+C:\Users\ebube\source\repos\DenklemKokleriniBulma\DenklemKokleriniBulma\obj\Debug\DenklemKokleriniBulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\ebube\source\repos\DenklemKokleriniBulma\DenklemKokleriniBulma\obj\Debug\DenklemKokleriniBulma.csproj.CoreCompileInputs.cache
+C:\Users\ebube\source\repos\DenklemKokleriniBulma\DenklemKokleriniBulma\bin\Debug\DenklemKokleriniBulma.exe.config
+C:\Users\ebube\source\repos\DenklemKokleriniBulma\DenklemKokleriniBulma\bin\Debug\DenklemKokleriniBulma.exe
+C:\Users\ebube\source\repos\DenklemKokleriniBulma\DenklemKokleriniBulma\bin\Debug\DenklemKokleriniBulma.pdb
+C:\Users\ebube\source\repos\DenklemKokleriniBulma\DenklemKokleriniBulma\obj\Debug\DenklemKokleriniBulma.exe
+C:\Users\ebube\source\repos\DenklemKokleriniBulma\DenklemKokleriniBulma\obj\Debug\DenklemKokleriniBulma.pdb
